@@ -27,4 +27,4 @@ class Solution {
 }
 ~~~
 
-처음에는 피보나치로 구현했으나 timeout이 떠서 Map을 두어서 caching 함. 
+First I use fibonacci for implementation, but because of the time exceed, I add map for caching.
