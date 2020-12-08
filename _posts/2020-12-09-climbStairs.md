@@ -1,5 +1,13 @@
+---
+layout: post
+title: Climb Stairs
+subtitle: algorithm
+gh-repo: KimHyoJin/kimhyojin.github.io
+gh-badge: [star, fork, follow]
+tags: [algorithm]
+comments: true
+---
 # ClimbStairs
-
 ~~~java
 class Solution {
     Map<Integer, Integer> cache = new HashMap();
