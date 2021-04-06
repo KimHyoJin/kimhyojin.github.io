@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "",
+  pathPrefix: "/blog",
   siteMetadata: {
     title: `Hyojing`,
     author: {
@@ -7,7 +7,7 @@ module.exports = {
       summary: `Tech Blog`,
     },
     description: `A simple, fixed sidebar two columns Gatsby.js blog starter.`,
-    siteUrl: `https://kimhyojin.github.io`,
+    siteUrl: `https://kimhyojin.github.io/blog`,
     social: {
       twitter: `ry_zou`,
     },
